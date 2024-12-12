@@ -75,7 +75,7 @@ In the future, I want to explore using a CSS preprocessor like Sass to organize 
 
 ## Author
 
-- **Portfolio** : https://votre-portfolio.com *(à venir)*
+- **Portfolio** : https://votre-portfolio.com *(coming soon.)*
 
 - Frontend Mentor - [@Harodde](https://www.frontendmentor.io/profile/harodde)
 - Linkedin - https://www.linkedin.com/in/ypernet-1a2b3c4d/
