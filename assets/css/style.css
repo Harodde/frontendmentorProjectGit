@@ -5,7 +5,6 @@
     --Slate900: hsl(218, 44%, 22%);
 }
 
-
 /* Réinitialisation des styles par défaut */
 *,
 *::before,
@@ -28,7 +27,6 @@ body {
     font-family: Outfit;
 
     min-height: 100vh;
-    /* Assure que le body occupe toute la hauteur de la fenêtre */
 }
 
 .main_container {
@@ -78,7 +76,7 @@ body {
     text-align: center;
     margin-bottom: 10px;
     margin-top: auto;
-    /* Positionne l'attribution en bas */
+    /* Positionne la classe attribution en bas */
 }
 
 .attribution a {
