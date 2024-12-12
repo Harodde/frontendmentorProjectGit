@@ -78,7 +78,7 @@ In the future, I want to explore using a CSS preprocessor like Sass to organize 
 - Portfolio : [My Portfolio](https://votre-portfolio.com) *(coming soon)*
 
 - Frontend Mentor : [@Harodde](https://www.frontendmentor.io/profile/Harodde)
-- Linkedin : [Ypernet's Profile](https://www.linkedin.com/in/ypernet-1a2b3c4d/)
+- Linkedin : [Yanick's Profile](https://www.linkedin.com/in/ypernet-1a2b3c4d/)
 
 ## Acknowledgments
 
