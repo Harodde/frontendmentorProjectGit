@@ -75,10 +75,10 @@ In the future, I want to explore using a CSS preprocessor like Sass to organize 
 
 ## Author
 
-- **Portfolio** : https://votre-portfolio.com *(coming soon.)*
+- Portfolio : [My Portfolio](https://votre-portfolio.com) *(coming soon)*
 
-- Frontend Mentor - [@Harodde](https://www.frontendmentor.io/profile/harodde)
-- Linkedin - https://www.linkedin.com/in/ypernet-1a2b3c4d/
+- Frontend Mentor : [@Harodde](https://www.frontendmentor.io/profile/Harodde)
+- Linkedin : [Ypernet's Profile](https://www.linkedin.com/in/ypernet-1a2b3c4d/)
 
 ## Acknowledgments
 
