@@ -27,6 +27,9 @@ body {
     font-family: Outfit;
 
     min-height: 100vh;
+
+    padding-top: 10px;
+    /* Décalage par rapport au footer */
 }
 
 .main_container {
@@ -37,7 +40,8 @@ body {
     padding: 16px 16px 40px 16px;
     margin-top: auto;
     /* Supprime tout effet collant au haut de la page */
-    box-shadow: 0 10px 40px hsla(0, 0%, 0%, 0.1);
+    /* box-shadow: 0px 15px 20px -10px hsla(0, 0%, 0%, 0.2); */
+    box-shadow: 0px 25px 35px hsla(0, 0%, 0%, 0.1);
 }
 
 .main_container img {
